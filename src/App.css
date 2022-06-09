@@ -1,0 +1,9 @@
+.App {
+  margin: 20px;
+}
+td {
+  height: 50px;
+  text-align: left;
+  width: 300px;
+  font-size: 20px;
+}
