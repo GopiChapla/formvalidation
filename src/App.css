@@ -7,3 +7,7 @@ td {
   width: 300px;
   font-size: 20px;
 }
+
+.invalid-feedback-checkbox{
+  color: brown;
+}
